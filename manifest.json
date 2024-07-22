@@ -1,0 +1,20 @@
+{
+  "name": "Custom Gauge Chart",
+  "description": "A custom gauge chart with an arrow using D3.js",
+  "resources": [
+    {
+      "type": "javascript",
+      "url": "https://d3js.org/d3.v5.min.js"
+    },
+    {
+      "type": "javascript",
+      "url": "script.js"
+    },
+    {
+      "type": "html",
+      "url": "index.html"
+    }
+  ],
+  "icon": "https://example.com/icon.png",
+  "organization": "Your Organization"
+}
